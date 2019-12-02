@@ -1,14 +1,5 @@
 # Hacker Tools
 
-Website for the [Hacker Tools](https://hacker-tools.github.io/) class!
+**This class has been renamed to "The Missing Semester of Your CS Education".**
 
-Contributions are most welcome! If you have edits or new content to add, please
-open an issue or submit a pull request.
-
-## Development
-
-To build and view the site locally, run:
-
-```bash
-bundle exec jekyll serve -w
-```
+The new GitHub repo is [here](https://github.com/missing-semester/missing-semester), and the new website is <https://missing.csail.mit.edu>.
