@@ -170,6 +170,15 @@ hr {
   text-align: center;
 }
 
+.gap {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.accent {
+  color: #8c0038;
+}
+
 .youtube-wrapper {
   position: relative;
   height: 0;
