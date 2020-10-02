@@ -1,4 +1,4 @@
-# Hacker Tools
+# Hacker Hacking Tools
 
 **This class has been renamed to "The Missing Semester of Your CS Education".**
 
