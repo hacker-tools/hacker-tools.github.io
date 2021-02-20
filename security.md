@@ -156,7 +156,7 @@ set up [WireGuard](https://www.wireguard.com/) for yourself -- it's
 [excellent](https://latacora.singles/2018/05/16/there-will-be.html)!
 
 There are also secure configuration settings for a lot of
-internet-enabled applications at [cipherli.st](https://cipherli.st/). If
+internet-enabled applications at [cipherlist.eu](https://cipherlist.eu/). If
 you're particularly privacy-oriented,
 [privacytools.io](https://privacytools.io) is also a good resource.
 
